@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![](https://views.whatilearened.today/views/github/ihmily/views.svg)
+
+你好呀！💡
+
+我是[AI研究所](https://github.com/shengxiaoming)，专注于无人直播及高情感声音克隆项目的开发及研究。
+
+可以找我定制任何关于抖音、快手、视频号、美团、淘宝、拼多多的无人直播项目。我们在此类项目上有着丰富的经验。
+
+如果你有任何问题或者想要交流，都可以随时联系我。
